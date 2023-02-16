@@ -4,10 +4,11 @@
 in terminal
 ```
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe .\web.cs
-.\web.exe
 ```
 
+run web.exe with administration
 
+add rule of firewall to make 8080 port open
 
 ## Credit to
 
