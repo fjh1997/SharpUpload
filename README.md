@@ -8,7 +8,7 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe .\web.cs
 
 run web.exe with administration
 
-add rule of firewall to make 8080 port open
+add rule of firewall to make 8080 port open，you have to open it manually because it uses http.sys instead of direct tcp connection.
 
 ## Credit to
 
